@@ -113,6 +113,6 @@ Climate Risk in Investment Memo and Final Project Brief \[Charles Steelman\]
 
 Krueger, P., Sautner, Z., & Starks, L. T. (2020). The importance of climate risks for institutional investors. The Review of Financial Studies, 33(3), 1067-1111.
 
-Session 21: ESG Talking and Doing
+## Session 21: ESG Talking and Doing
 
 \[no readings assigned\]
