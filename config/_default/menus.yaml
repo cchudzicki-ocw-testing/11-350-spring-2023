@@ -1,0 +1,17 @@
+leftnav:
+- identifier: 3a08efa6-9592-4db6-b8ee-439022353dc6
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: f56e9bed-8bfc-4758-80a9-39c1605adc4b
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: 7452807c-8355-4676-98e2-ceadde0a1d0a
+  name: Lecture Slides
+  url: /pages/lecture-slides
+  weight: 30
+- identifier: 07b3ab75-d1e9-4c6e-b8af-0a34778bc5ba
+  name: Assignments
+  url: /lists/assignments
+  weight: 40
