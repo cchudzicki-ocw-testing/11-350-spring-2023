@@ -7,8 +7,12 @@
   "topics": [],
   "legacy_uid": "",
   "instructors": {
-    "content": [],
-    "website": "sustainable-real-estate"
+    "content": [
+      "883d2c08-9db5-40c8-a987-0042d551dead",
+      "57c8cd08-d161-4e43-be64-1c5dcbf2d7ba",
+      "a85e86c3-1d2d-4da0-b5aa-7cd0a455b054"
+    ],
+    "website": "ocw-www"
   },
   "course_image": {
     "content": "51546b11-680d-4424-b264-416bdad49f3a",
