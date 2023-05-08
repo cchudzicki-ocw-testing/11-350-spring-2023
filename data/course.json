@@ -4,7 +4,21 @@
   "level": [
     "Graduate"
   ],
-  "topics": [],
+  "topics": [
+    [
+      "Business",
+      "Real Estate"
+    ],
+    [
+      "Energy",
+      "Buildings"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Sustainability"
+    ]
+  ],
   "legacy_uid": "",
   "instructors": {
     "content": [
