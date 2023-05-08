@@ -32,3 +32,28 @@ World GBC, 2016. Building the Business Case: Health, Wellbeing and Productivity 
 *A Tower for the People: 425 Park Avenue.*
 
 Buildings emerge as drivers of health and profits, Scott Muldavin, Chris R. Miers; Ken McMackin
+
+## Session 6: From Green Buildings to Green Cities: pricing environmental features and supporting decision  
+making
+
+Zheng, S., & Kahn, M. E. (2008). Land and residential property markets in a booming economy: New evidence from Beijing. Journal of Urban Economics, 63(2), 743-757. 
+
+Eichholtz, P., Kok, N., & Quigley, J. M. (2013). The economics of green building. Review of Economics and Statistics, 95(1), 50-63.
+
+## Session 7: Climate Change and Real Estate Investments 
+
+Hsiang, S. and Kopp, R.E., 2018. An economist's guide to climate change science. Journal of Economic Perspectives, 32(4), pp.3-32 
+
+ULI and Heitman, 2019. Climate Risk and Real Estate Investment Decision-Making. Link report here
+
+## Session 8: Climate Change and Real Estate Investments, part 2 
+
+Ortega, F., & Taṣpınar, S. (2018). Rising sea levels and sinking property values: Hurricane Sandy and New York’s housing market. Journal of Urban Economics, 106, 81-100.
+
+Clayton, J., van de Wetering, J., Sayce, S., & Devaney, S. (2021). Climate Risk and commercial property values: a review and analysis of the literature. (link)
+
+Session 9: Climate Change and Real Estate Investments, part 3
+
+ 
+
+Session 10:
