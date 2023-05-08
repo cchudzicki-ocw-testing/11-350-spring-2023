@@ -33,7 +33,8 @@ World GBC, 2016. Building the Business Case: Health, Wellbeing and Productivity 
 
 Buildings emerge as drivers of health and profits, Scott Muldavin, Chris R. Miers; Ken McMackin
 
-## Session 6: From Green Buildings to Green Cities: pricing environmental features and supporting decision  
+## Session 6: From Green Buildings to Green Cities: pricing environmental features and supporting decision
+
 making
 
 Zheng, S., & Kahn, M. E. (2008). Land and residential property markets in a booming economy: New evidence from Beijing. Journal of Urban Economics, 63(2), 743-757. 
@@ -52,8 +53,66 @@ Ortega, F., & Taṣpınar, S. (2018). Rising sea levels and sinking property val
 
 Clayton, J., van de Wetering, J., Sayce, S., & Devaney, S. (2021). Climate Risk and commercial property values: a review and analysis of the literature. (link)
 
-Session 9: Climate Change and Real Estate Investments, part 3
+## Session 9: Climate Change and Real Estate Investments, part 3
 
- 
+\[no readings assigned\]
 
-Session 10:
+## Session 10: Business Case 2.0: Policy as a Game Changer for Sustainable Real Estate
+
+US energy code landscape: [https://www.energycodes.gov/status](https://www.energycodes.gov/status)
+
+Matisoff, D. C., Noonan, D. S., & Flowers, M. E. (2016). Policy monitor—Green buildings: Economics and policies. Review of Environmental Economics and Policy, 10(2), 329-346.
+
+## Session 11: EDGE: Reinventing Sustainable Real Estate in the Digital Age
+
+EDGE: Reinventing Sustainable Real Estate in the Digital Age
+
+Supplementary Readings:
+
+Optional: How Smart, Connected Products Are Transforming Competition, 2014, Harvard Business Review, Michael Porter, James Heppelmann (link)
+
+## Session 12: Financing Sustainable Real Estate at the Asset Level 
+
+Kaza, N., Quercia, R. G., & Tian, C. Y. (2014). Home energy efficiency and mortgage risks. Cityscape, 16(1), 279-298.
+
+FreddieMac (2020) Unravelling Perceptions of Flood Risk: Examining Changes in Home Prices in Harris County, Texas in the Aftermath of Hurricane Harvey. (link)
+
+Economist (2019). Changing weather could put insurance firms out of business. (link)
+
+## Session 13: Financing Sustainable Real Estate at the Portfolio Level
+
+Eichholtz, P., Kok, N., & Yonder, E. (2012). Portfolio greenness and the financial performance of REITs. Journal of International Money and Finance, 31(7), 1911-1929.
+
+Devine, A., Sanderford, A., & Wang, C. (2022). Sustainability and Private Equity Real Estate Returns. Journal of Real Estate Finance and Economics.
+
+## Session 14: Design strategies for sustainability and resilience
+
+\[no readings assigned\]
+
+## Session 15: Integrating sustainable design in development 
+
+\[no readings assigned\]
+
+## Session 16: Applications of environmental modeling tools
+
+Climate Risk in Investment Memo and Final Project Brief \[Charles Steelman\]
+
+## Session 17: Taurus Investment Holdings: Decarbonization Venture
+
+*Taurus Investment Holdings: Decarbonization Venture*
+
+## Session 18: Boston Properties: Measuring and Implementing Portfolio Sustainability
+
+*Boston Properties: Measuring and Implementing Portfolio Sustainability*
+
+## Session 19: Sustainability Data Strategy under new regulation and investor mandate
+
+\[no readings assigned\]
+
+## Session 20: Sustainable Real Estate in the Broader Capital Market
+
+Krueger, P., Sautner, Z., & Starks, L. T. (2020). The importance of climate risks for institutional investors. The Review of Financial Studies, 33(3), 1067-1111.
+
+Session 21: ESG Talking and Doing
+
+\[no readings assigned\]
