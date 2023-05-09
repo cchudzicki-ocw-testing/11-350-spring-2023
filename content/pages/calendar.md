@@ -6,8 +6,8 @@ draft: false
 title: Calendar
 uid: f56e9bed-8bfc-4758-80a9-39c1605adc4b
 ---
-(ECON=Economics; DES=Design; BUS=Business)     
-(SZ = Siqi Zheng; ZT = Zhengzhen Tan; JP = Juan Palacios; CD = Carlos Cerezo Davila)     
+(ECON=Economics; DES=Design; BUS=Business)      
+(SZ = Siqi Zheng; ZT = Zhengzhen Tan; JP = Juan Palacios; CD = Carlos Cerezo Davila)      
  
 
 ## Session 1: Introduction: The why of sustainability in real estate \[SZ, ZT, JP\] 
@@ -211,7 +211,7 @@ Narratives for different design consumers:   
 
 Global perspectives on climate action and regulation   
 
-Session 17: DES 3 Applications of environmental modeling tools \[CD\]   
+## Session 17: DES 3 Applications of environmental modeling tools \[CD\]   
 
 Performance driven sustainable design   
 
@@ -224,57 +224,57 @@ Modeling tools and methods:  
 
 Data visualization, communication & decision making
 
- 
+## Session 18: BUS 4 Taurus Investment Holdings: Decarbonization Venture \[ZT\]  
 
- 
+Business innovation to capitalize building decarbonization thesis in private equity real estate investment. The components include:
 
-    
-Climate Risk in Investment Memo and Final Project Brief \[Charles Steelman\]  
+- proof of concept with technology; business process and deal economics; 
+- investment thesis and vehicle formation; 
+- capital raising; and 
+- seed asset acquisition.    
 
-BUS 4 Taurus Investment Holdings: Decarbonization Venture \[ZT\]   
-Business innovation to capitalize building decarbonization thesis in private equity real estate investment. The     
-components include: 1) proof of concept with technology; business process and deal economics ; 2) investment     
-thesis & vehicle formation; 3) capital raising and 4) seed asset acquisition.     
-Readings: Taurus Investment Holdings: Decarbonization Venture     
 Guest Speaker: Peter Merrigan, CEO and founder, Taurus Investment Holdings  
 
-BUS 5 Boston Properties: Measuring and Implementing Portfolio Sustainability \[ZT\]   
-● Understand the capital market’s influence on the behavior of long-term core asset investors, owners and     
-operators;     
-● As sustainability becomes an integral part of company strategy, how to set up a framework to define,     
-measure, report and manage sustainability performance.     
-● Learn how to approach portfolio level sustainability challenges, such as net-zero carbon operation, ESG     
-benchmark, green financing.     
-Guest speaker: Ben Myers, Vice President, Sustainability at Boston Properties     
-Readings : Boston Properties (BXP): Measuring and Implementing Portfolio Sustainability     
-BUS 6 Sustainability Data Strategy under new regulation and investor mandate \[ZT, JP\]     
-    
-● Understand the capital market’s influence on the behavior of long-term core asset investors, owners and     
-operators;     
-Guest Speaker:     
-Jonathan Flaherty, Global Head - Sustainability and Building Technology Innovation, Tishman Speyer     
-ECON 11 Sustainable Real Estate in the Broader Capital Market \[SZ\]  
+## Session 19: BUS 5 Boston Properties: Measuring and Implementing Portfolio Sustainability \[ZT\]
 
-● Why do institutional investors care about ESG?     
-○Proposed SEC Climate Disclosure Rule     
-● Recent Backlash against ESG     
-● Global Sustainable Real Estate Investment     
-Readings     
-Krueger, P., Sautner, Z., & Starks, L. T. (2020). The importance of climate risks for institutional investors. The     
-Review of Financial Studies, 33(3), 1067-1111.
+Understand the capital market’s influence on the behavior of long-term core asset investors, owners and operators
 
-BUS 7 ESG Talking and Doing \[ZT, Jacques Gordon\]  
+As sustainability becomes an integral part of company strategy, how to set up a framework to define, measure, report and manage sustainability performance.
 
-Industry Panel:     
-● Jacques Gordon, LaSalle     
-● Matt Ellis, CEO & Founder, Measurabl     
-● Lori Mobardi, ESG Senior Director, U.S. Real Estate Equity, Barings     
-● David Devos, Global Head of ESG, LaSalle Investment Management     
-● Dan Winters, Senior Director, GRESB  
+Learn how to approach portfolio level sustainability challenges, such as net-zero carbon operation, ESG benchmark, green financing.
 
-ECON 12 ESG Preferences and Performance \[S.Z., Bram van der Kroft\]  
+Guest speaker: Ben Myers, Vice President, Sustainability at Boston Properties    
 
-● ESG confusion     
+## Session 20: BUS 6 Sustainability Data Strategy under new regulation and investor mandate \[ZT, JP\]    
+
+Understand the capital market’s influence on the behavior of long-term core asset investors, owners and      
+operators     
  
 
-May 16, 2023: Final Project Presentation
+Guest Speaker: Jonathan Flaherty, Global Head - Sustainability and Building Technology Innovation, Tishman Speyer    
+
+## Session 21: ECON 11 Sustainable Real Estate in the Broader Capital Market \[SZ\]  
+
+Why do institutional investors care about ESG?    
+
+- Proposed SEC Climate Disclosure Rule    
+
+Recent Backlash against ESG    
+
+Global Sustainable Real Estate Investment    
+
+## Session 22: BUS 7 ESG Talking and Doing \[ZT, Jacques Gordon\]  
+
+Industry Panel:    
+
+- Jacques Gordon, LaSalle    
+- Matt Ellis, CEO & Founder, Measurabl    
+- Lori Mobardi, ESG Senior Director, U.S. Real Estate Equity, Barings    
+- David Devos, Global Head of ESG, LaSalle Investment Management    
+- Dan Winters, Senior Director, GRESB 
+
+## Session 23: ECON 12 ESG Preferences and Performance \[SZ, Bram van der Kroft\]  
+
+● ESG confusion    
+
+## Session 24: Final Project Presentation
