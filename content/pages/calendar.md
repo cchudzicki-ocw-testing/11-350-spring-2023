@@ -6,8 +6,8 @@ draft: false
 title: Calendar
 uid: f56e9bed-8bfc-4758-80a9-39c1605adc4b
 ---
-(ECON=Economics; DES=Design; BUS=Business)    
-(SZ = Siqi Zheng; ZT = Zhengzhen Tan; JP = Juan Palacios; CD = Carlos Cerezo Davila)    
+(ECON=Economics; DES=Design; BUS=Business)     
+(SZ = Siqi Zheng; ZT = Zhengzhen Tan; JP = Juan Palacios; CD = Carlos Cerezo Davila)     
  
 
 ## Session 1: Introduction: The why of sustainability in real estate \[SZ, ZT, JP\] 
@@ -85,7 +85,8 @@ Understand the science of healthy buildings and its value proposition in office 
 
 Analyze financial returns of healthy building investment  
 
-## Session 7: ECON 4 From Green Buildings to Green Cities: pricing environmental features and supporting decision    
+## Session 7: ECON 4 From Green Buildings to Green Cities: pricing environmental features and supporting decision  
+
 making \[SZ\]  
 
 Estimating green building premium: Hedonic pricing technique 
@@ -116,7 +117,7 @@ Data and models to assess climate risk in commercial real estate  
 
 The role of insurance markets in shaping physical climate risk  
 
-### Session 9: ECON 6 Climate Change and Real Estate Investments, part 2 \[SZ, JP\]
+## Session 9: ECON 6 Climate Change and Real Estate Investments, part 2 \[SZ, JP\]
 
 Discounting climate risks: the role of belief 
 
@@ -132,157 +133,148 @@ Climate risk and insurance market crisis  
 
 Leave or rebuild: Is managed retreat an option?  
 
-ECON 8 Business Case 2.0: Policy as a Game Changer for Sustainable Real Estate \[SZ\]    
-● Policy landscape and the impacts on pro forma cash flow    
-● Positive externality and “carrots” policies    
-○ Subsidies for green buildings    
-○ FAR bonus    
-● Negative externality and “sticks” policies    
-○ Minimum Energy Efficiency Standards (UK)    
-○ Building performance standard: Local Law 97 (NYC) and BERDO 2.0 (Boston)    
-○ Risk disclosure mandates: Boston Seaport case    
-○ Building energy codes    
-Readings    
-● US energy code landscape: [https://www.energycodes.gov/status](https://www.energycodes.gov/status)    
-● Matisoff, D. C., Noonan, D. S., & Flowers, M. E. (2016). Policy monitor—Green buildings: Economics    
-and policies. Review of Environmental Economics and Policy, 10(2), 329-346.
+## Session 11: ECON 8 Business Case 2.0: Policy as a Game Changer for Sustainable Real Estate \[SZ\]   
+
+Policy landscape and the impacts on pro forma cash flow   
+
+Positive externality and “carrots” policies:   
+
+- Subsidies for green buildings   
+- FAR bonus   
+
+Negative externality and “sticks” policies:
+
+- Minimum Energy Efficiency Standards (UK)   
+- Building performance standard: Local Law 97 (NYC) and BERDO 2.0 (Boston)   
+- Risk disclosure mandates: Boston Seaport case   
+- Building energy codes   
+
+## Session 12: BUS 3 EDGE: Reinventing Sustainable Real Estate in the Digital Age \[ZT\]  
+
+This case highlights the journey of EDGE that once fit a traditional real estate business model has transformed to develop some of the most sustainable buildings in the world with novel digital technologies. By examining the transformation of EDGE, this case explores the potential that digital technology has in advancing sustainable buildings, and the challenges and risks that arise with implementation. Students will learn:   
+
+- How was OVG/EDGE able to convert sustainability and technology investments into business value? how to build a business model and competitive advantage to capitalize sustainability;
+- What is the synergy between digital technology and building sustainability?
+- how to build capabilities in the development process.   
+
+Guest speaker: Coen van Oostrom, Founder & CEO of EDGE   
+
+## Session 13: ECON 9 Financing Sustainable Real Estate at the Asset Level \[SZ\]   
+
+Big picture: Sustainable finance; equity and debt financing in sustainable real estate   
+
+Debt: Mortgage markets   
+
+- Mortgage markets and climate risks (-): default risk and securitization   
+- Mortgage markets and sustainable buildings (+): default risk and green mortgages   
+
+Equity: Private equity funds for sustainable real estate   
+
+## Session 14: ECON 10 Financing Sustainable Real Estate at the Portfolio Level \[SZ\]   
+
+Sustainable real estate investments at portfolio level :  
+
+- Equity: Real Estate Investment Trusts (REITs)   
+- Debt: Green Bond   
+
+Benchmarking & Disclosure   
+
+## Session 15: DES 1 Design strategies for sustainability and resilience \[CD\]   
+
+A framework for sustainable design (With Jamie Von Klemperer)
+
+Building scale strategies:   
+
+- Passive and active thermal design   
+- Occupant health and wellbeing   
+- Embodied carbon and lifecycle design   
+
+Site and urban scale strategies:
+
+- Climate, microclimate and future climate
+- Stormwater control, flood mitigation and landscape   
+- District systems, electrification and mobility   
+
+## Session 16: DES 2 Integrating sustainable design in development \[CD\]  
+
+Sustainable design in the development process: 
+
+- Project timeline and design decisions   
+- Scope definition and goal setting   
+- Working with architects and consultants   
+
+Narratives for different design consumers:   
+
+- The public: Right to Daylight in NYC   
+- The tenant: Communicating comfort benefits   
+- The utility: Building energy at the portfolio scale   
+
+Global perspectives on climate action and regulation   
+
+Session 17: DES 3 Applications of environmental modeling tools \[CD\]   
+
+Performance driven sustainable design   
+
+Modeling tools and methods:  
+
+- Early design modeling tools   
+- Daylight and views analysis   
+- Energy modeling by phase   
+- Material data transparency   
+
+Data visualization, communication & decision making
 
  
 
  
 
-7    
-BUS 3 EDGE: Reinventing Sustainable Real Estate in the Digital Age \[ZT\]   
-This case highlights the journey of EDGE that once fit a traditional real estate business model has transformed to    
-develop some of the most sustainable buildings in the world with novel digital technologies. By examining the    
-transformation of EDGE, this case explores the potential that digital technology has in advancing sustainable    
-buildings, and the challenges and risks that arise with implementation. Students will learn:    
-1) How was OVG/EDGE able to convert sustainability and technology investments into business value? how    
-to build a business model and competitive advantage to capitalize sustainability;    
-2) What is the synergy between digital technology and building sustainability?    
-3) how to build capabilities in the development process.    
-Guest speaker: Coen van Oostrom, Founder & CEO of EDGE    
-Readings    
-EDGE: Reinventing Sustainable Real Estate in the Digital Age    
-Supplementary Readings:    
-Optional: How Smart, Connected Products Are Transforming Competition, 2014, Harvard Business Review,    
-Michael Porter, James Heppelmann (link)    
-Mid-term Exam (Mar 23, 2023)    
-ECON 9 Financing Sustainable Real Estate at the Asset Level \[SZ\]    
-(Apr 4, 2023)    
-● Big picture: Sustainable finance; equity and debt financing in sustainable real estate    
-● Debt: Mortgage markets    
-○ Mortgage markets and climate risks (-): default risk and securitization    
-○ Mortgage markets and sustainable buildings (+): default risk and green mortgages    
-● Equity: Private equity funds for sustainable real estate    
-Readings    
-Kaza, N., Quercia, R. G., & Tian, C. Y. (2014). Home energy efficiency and mortgage risks. Cityscape, 16(1), 279-
+    
+Climate Risk in Investment Memo and Final Project Brief \[Charles Steelman\]  
 
-1.   
-    FreddieMac (2020) Unravelling Perceptions of Flood Risk: Examining Changes in Home Prices in Harris County,    
-    Texas in the Aftermath of Hurricane Harvey. (link)    
-    Economist (2019). Changing weather could put insurance firms out of business. (link)
-
- 
-
- 
-
-8    
-ECON 10 Financing Sustainable Real Estate at the Portfolio Level \[SZ\]    
-(Apr 7, 2023)    
-● Sustainable real estate investments at portfolio level    
-○ Equity: Real Estate Investment Trusts (REITs)    
-○ Debt: Green Bond    
-● Benchmarking & Disclosure    
-Readings    
-Eichholtz, P., Kok, N., & Yonder, E. (2012). Portfolio greenness and the financial performance of REITs. Journal of    
-International Money and Finance, 31(7), 1911-1929.    
-Devine, A., Sanderford, A., & Wang, C. (2022). Sustainability and Private Equity Real Estate Returns. Journal of    
-Real Estate Finance and Economics.    
-DES 1 Design strategies for sustainability and resilience \[C.D.\]    
-(Apr 9, 2023)    
-● A framework for sustainable design (With Jamie Von Klemperer)    
-● Building scale strategies    
-○ Passive and active thermal design    
-○ Occupant health and wellbeing    
-○ Embodied carbon and lifecycle design    
-● Site and urban scale strategies    
-○ Climate, microclimate and future climate    
-○ Stormwater control, flood mitigation and landscape    
-○ District systems, electrification and mobility    
-DES 2 Integrating sustainable design in development \[CD\]    
-  
-● Sustainable design in the development process    
-○ Project timeline and design decisions    
-○ Scope definition and goal setting    
-○ Working with architects and consultants    
-● Narratives for different design consumers    
-○ The public: Right to Daylight in NYC    
-○ The tenant: Communicating comfort benefits    
-○ The utility: Building energy at the portfolio scale    
-● Global perspectives on climate action and regulation    
-DES 3 Applications of environmental modeling tools \[CD\]    
-   
-● Performance driven sustainable design    
-● Modeling tools and methods    
-○ Early design modeling tools    
-○ Daylight and views analysis    
-○ Energy modeling by phase    
-○ Material data transparency    
-● Data visualization, communication & decision making
-
- 
-
- 
-
-   
-Climate Risk in Investment Memo and Final Project Brief \[Charles Steelman\]    
-  
-BUS 4 Taurus Investment Holdings: Decarbonization Venture \[ZT\]  
-Business innovation to capitalize building decarbonization thesis in private equity real estate investment. The    
-components include: 1) proof of concept with technology; business process and deal economics ; 2) investment    
-thesis & vehicle formation; 3) capital raising and 4) seed asset acquisition.    
-Readings: Taurus Investment Holdings: Decarbonization Venture    
+BUS 4 Taurus Investment Holdings: Decarbonization Venture \[ZT\]   
+Business innovation to capitalize building decarbonization thesis in private equity real estate investment. The     
+components include: 1) proof of concept with technology; business process and deal economics ; 2) investment     
+thesis & vehicle formation; 3) capital raising and 4) seed asset acquisition.     
+Readings: Taurus Investment Holdings: Decarbonization Venture     
 Guest Speaker: Peter Merrigan, CEO and founder, Taurus Investment Holdings  
 
-BUS 5 Boston Properties: Measuring and Implementing Portfolio Sustainability \[ZT\]  
-● Understand the capital market’s influence on the behavior of long-term core asset investors, owners and    
-operators;    
-● As sustainability becomes an integral part of company strategy, how to set up a framework to define,    
-measure, report and manage sustainability performance.    
-● Learn how to approach portfolio level sustainability challenges, such as net-zero carbon operation, ESG    
-benchmark, green financing.    
-Guest speaker: Ben Myers, Vice President, Sustainability at Boston Properties    
-Readings : Boston Properties (BXP): Measuring and Implementing Portfolio Sustainability    
-BUS 6 Sustainability Data Strategy under new regulation and investor mandate \[ZT, JP\]    
-   
-● Understand the capital market’s influence on the behavior of long-term core asset investors, owners and    
-operators;    
-Guest Speaker:    
-Jonathan Flaherty, Global Head - Sustainability and Building Technology Innovation, Tishman Speyer    
-ECON 11 Sustainable Real Estate in the Broader Capital Market \[SZ\]    
-  
-● Why do institutional investors care about ESG?    
-○Proposed SEC Climate Disclosure Rule    
-● Recent Backlash against ESG    
-● Global Sustainable Real Estate Investment    
-Readings    
-Krueger, P., Sautner, Z., & Starks, L. T. (2020). The importance of climate risks for institutional investors. The    
+BUS 5 Boston Properties: Measuring and Implementing Portfolio Sustainability \[ZT\]   
+● Understand the capital market’s influence on the behavior of long-term core asset investors, owners and     
+operators;     
+● As sustainability becomes an integral part of company strategy, how to set up a framework to define,     
+measure, report and manage sustainability performance.     
+● Learn how to approach portfolio level sustainability challenges, such as net-zero carbon operation, ESG     
+benchmark, green financing.     
+Guest speaker: Ben Myers, Vice President, Sustainability at Boston Properties     
+Readings : Boston Properties (BXP): Measuring and Implementing Portfolio Sustainability     
+BUS 6 Sustainability Data Strategy under new regulation and investor mandate \[ZT, JP\]     
+    
+● Understand the capital market’s influence on the behavior of long-term core asset investors, owners and     
+operators;     
+Guest Speaker:     
+Jonathan Flaherty, Global Head - Sustainability and Building Technology Innovation, Tishman Speyer     
+ECON 11 Sustainable Real Estate in the Broader Capital Market \[SZ\]  
+
+● Why do institutional investors care about ESG?     
+○Proposed SEC Climate Disclosure Rule     
+● Recent Backlash against ESG     
+● Global Sustainable Real Estate Investment     
+Readings     
+Krueger, P., Sautner, Z., & Starks, L. T. (2020). The importance of climate risks for institutional investors. The     
 Review of Financial Studies, 33(3), 1067-1111.
 
-  
-BUS 7 ESG Talking and Doing \[ZT, Jacques Gordon\]    
-  
-Industry Panel:    
-● Jacques Gordon, LaSalle    
-● Matt Ellis, CEO & Founder, Measurabl    
-● Lori Mobardi, ESG Senior Director, U.S. Real Estate Equity, Barings    
-● David Devos, Global Head of ESG, LaSalle Investment Management    
+BUS 7 ESG Talking and Doing \[ZT, Jacques Gordon\]  
+
+Industry Panel:     
+● Jacques Gordon, LaSalle     
+● Matt Ellis, CEO & Founder, Measurabl     
+● Lori Mobardi, ESG Senior Director, U.S. Real Estate Equity, Barings     
+● David Devos, Global Head of ESG, LaSalle Investment Management     
 ● Dan Winters, Senior Director, GRESB  
 
-ECON 12 ESG Preferences and Performance \[S.Z., Bram van der Kroft\]    
-  
-● ESG confusion    
+ECON 12 ESG Preferences and Performance \[S.Z., Bram van der Kroft\]  
+
+● ESG confusion     
  
 
 May 16, 2023: Final Project Presentation
