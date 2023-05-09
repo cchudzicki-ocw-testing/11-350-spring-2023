@@ -120,3 +120,11 @@ Krueger, P., Sautner, Z., & Starks, L. T. (2020). The importance of climate risk
 ## Session 22: ESG Talking and Doing
 
 \[no readings assigned\]
+
+## Session 23: ESG Preferences and Performance
+
+\[no readings assigned\]
+
+## Session 24: Final Project Presentation
+
+\[no readings assigned\]
