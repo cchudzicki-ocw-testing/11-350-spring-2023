@@ -35,3 +35,7 @@ leftnav:
   name: "Sessions 22\u201324"
   url: /pages/sessions-2224
   weight: 90
+- identifier: 7e1f7e62-e43e-4ba4-bcd2-cad7a8a989c6
+  name: Assignments
+  url: /pages/assignments
+  weight: 100
