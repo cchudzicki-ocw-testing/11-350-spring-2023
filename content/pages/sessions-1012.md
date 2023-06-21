@@ -12,6 +12,8 @@ Climate risk and insurance market crisis  
 
 Leave or rebuild: Is managed retreat an option?  
 
+### Readings
+
 ## Session 11: ECON 8 Business Case 2.0: Policy as a Game Changer for Sustainable Real Estate \[Siqi Zheng\]   
 
 Policy landscape and the impacts on pro forma cash flow   
@@ -28,6 +30,8 @@ Negative externality and “sticks” policies:
 - Risk disclosure mandates: Boston Seaport case   
 - Building energy codes   
 
+### Readings
+
 ## Session 12: BUS 3 EDGE: Reinventing Sustainable Real Estate in the Digital Age \[Zhengzheng Tan\]  
 
 This case highlights the journey of EDGE that once fit a traditional real estate business model has transformed to develop some of the most sustainable buildings in the world with novel digital technologies. By examining the transformation of EDGE, this case explores the potential that digital technology has in advancing sustainable buildings, and the challenges and risks that arise with implementation. Students will learn:   
@@ -37,3 +41,5 @@ This case highlights the journey of EDGE that once fit a traditional real estate
 - how to build capabilities in the development process.   
 
 Guest speaker: Coen van Oostrom, Founder & CEO of EDGE
+
+### Readings
