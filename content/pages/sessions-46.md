@@ -13,6 +13,10 @@ Boston’s $1.3 billion Winthrop Center was conceived and constructed 2016–202
 - How to approach quantitative and qualitative analysis in making high stake sustainability decisions.  
 - Execution risks associated with fast evolving sustainability concepts. Trade offs and challenges in bringing Passive House concepts to reality. What’s the risk involved and how to control the risk.  
 
+### Readings
+
+*Winthrop Center*
+
 ## Session 5: ECON 3 Green building version 2.0: economic rationale and analytical tools of health in buildings \[Juan Palacios\]
 
 Quantifying the impact of buildings on occupants’ health and performance of occupants  
@@ -28,10 +32,22 @@ Value of healthy buildings  
 The role of technology and certification  
 
 - Information as a public good: sensors, building certifications and industry standards for healthy buildings  
-- 425 Park Avenue case from the economic perspective    
+- 425 Park Avenue case from the economic perspective
+
+### Readings
+
+Allen, J.G. and Macomber, J.D., 2020. Chapter 4 and 5. Healthy buildings: How indoor spaces drive performance and productivity. Harvard University Press 
+
+World GBC, 2016. Building the Business Case: Health, Wellbeing and Productivity in Green Offices (link)
 
 ## Session 6: BUS 2 425 Park Ave \[Zhengzheng Tan\] 
 
 Understand the science of healthy buildings and its value proposition in office sector  
 
 Analyze financial returns of healthy building investment
+
+### Readings
+
+*A Tower for the People: 425 Park Avenue.*
+
+Buildings emerge as drivers of health and profits, Scott Muldavin, Chris R. Miers; Ken McMackin
