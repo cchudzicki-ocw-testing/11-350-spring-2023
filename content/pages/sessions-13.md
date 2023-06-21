@@ -24,7 +24,7 @@ Knowledge structure: connecting economics and business  
 
 Logistics of this course
 
-### Readings: 
+### Readings 
 
 No readings assigned.
 
@@ -42,7 +42,7 @@ How the market may fail: Market failure and correction (1) - Information asymmet
 - Green building certificates  
 - Benchmarking and transparency policies 
 
-### Readings: 
+### Readings 
 
 World Green Building Council. (2013). The business case for green building: a review of the costs and benefits for developers, investors and occupants. WGBC.
 
@@ -63,6 +63,6 @@ Building decarbonization: people side - landlord vs. tenant  
 - Rockville building case revisit  
 - Scope 1-2-3: whose carbon is it?
 
-### Readings: 
+### Readings 
 
 IMT (2018). Green lease leaders: using the lease to drive innovation and clean energy.
