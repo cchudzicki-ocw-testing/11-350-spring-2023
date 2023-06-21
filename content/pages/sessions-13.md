@@ -24,6 +24,10 @@ Knowledge structure: connecting economics and business  
 
 Logistics of this course
 
+### Readings: 
+
+No readings assigned.
+
 ## Session 2: ECON 1-2 Green buildings: economic rationale and analytical tools \[Siqi Zheng\] 
 
 How the market may work: The business case for green buildings  
@@ -38,6 +42,14 @@ How the market may fail: Market failure and correction (1) - Information asymmet
 - Green building certificates  
 - Benchmarking and transparency policies 
 
+### Readings: 
+
+World Green Building Council. (2013). The business case for green building: a review of the costs and benefits for developers, investors and occupants. WGBC.
+
+Harvard Business School. Rockville business case.
+
+(If no real estate finance background) Chapter 10 of: Geltner, D., Miller, N. G., Clayton, J., & Eichholtz, P. Commercial real estate analysis and investments (Version 3e).
+
 ## Session 3: ECON 1-2 Green buildings: economic rationale and analytical tools, continued \[Siqi Zheng\] 
 
 Building decarbonization: Technology side  
@@ -50,3 +62,7 @@ Building decarbonization: people side - landlord vs. tenant  
 - Market failure and correction (2): Split Incentive and green lease  
 - Rockville building case revisit  
 - Scope 1-2-3: whose carbon is it?
+
+### Readings: 
+
+IMT (2018). Green lease leaders: using the lease to drive innovation and clean energy.
