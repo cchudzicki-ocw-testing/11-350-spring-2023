@@ -16,8 +16,20 @@ Industry Panel:    
 - David Devos, Global Head of ESG, LaSalle Investment Management    
 - Dan Winters, Senior Director, GRESB 
 
+### Readings
+
+No readings assigned.
+
 ## Session 23: ECON 12 ESG Preferences and Performance \[Siqi Zheng, Bram van der Kroft\]  
 
 ● ESG confusion    
 
+### Readings
+
+No readings assigned.
+
 ## Session 24: Final Project Presentation
+
+### Readings
+
+No readings assigned.
