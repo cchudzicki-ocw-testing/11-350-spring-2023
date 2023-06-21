@@ -6,8 +6,8 @@ draft: false
 title: Calendar
 uid: f56e9bed-8bfc-4758-80a9-39c1605adc4b
 ---
-(ECON=Economics; DES=Design; BUS=Business)       
-(SZ = Siqi Zheng; ZT = Zhengzhen Tan; JP = Juan Palacios; CD = Carlos Cerezo Davila)       
+(ECON = Economics; DES = Design; BUS = Business)        
+(SZ = Siqi Zheng; ZT = Zhengzhen Tan; JP = Juan Palacios; CD = Carlos Cerezo Davila)        
  
 
 ## Session 1: Introduction: The why of sustainability in real estate \[SZ, ZT, JP\] 
@@ -247,8 +247,8 @@ Guest speaker: Ben Myers, Vice President, Sustainability at Boston Properties �
 
 ## Session 20: BUS 6 Sustainability Data Strategy under new regulation and investor mandate \[ZT, JP\]    
 
-Understand the capital market’s influence on the behavior of long-term core asset investors, owners and       
-operators      
+Understand the capital market’s influence on the behavior of long-term core asset investors, owners and        
+operators       
  
 
 Guest Speaker: Jonathan Flaherty, Global Head - Sustainability and Building Technology Innovation, Tishman Speyer    
