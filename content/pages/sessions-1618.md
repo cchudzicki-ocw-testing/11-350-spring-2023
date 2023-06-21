@@ -22,6 +22,10 @@ Narratives for different design consumers:   
 
 Global perspectives on climate action and regulation   
 
+### Readings
+
+No readings assigned.
+
 ## Session 17: DES 3 Applications of environmental modeling tools \[Carlos Cerezo Davila\]   
 
 Performance driven sustainable design   
@@ -35,6 +39,10 @@ Modeling tools and methods:  
 
 Data visualization, communication & decision making
 
+### Readings
+
+Climate Risk in Investment Memo and Final Project Brief \[Charles Steelman\]
+
 ## Session 18: BUS 4 Taurus Investment Holdings: Decarbonization Venture \[Zhengzheng Tan\]  
 
 Business innovation to capitalize building decarbonization thesis in private equity real estate investment. The components include:
@@ -45,3 +53,7 @@ Business innovation to capitalize building decarbonization thesis in private equ
 - seed asset acquisition.    
 
 Guest Speaker: Peter Merrigan, CEO and founder, Taurus Investment Holdings
+
+### Readings
+
+*Taurus Investment Holdings: Decarbonization Venture*
