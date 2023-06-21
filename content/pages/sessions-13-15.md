@@ -17,6 +17,14 @@ Debt: Mortgage markets   
 
 Equity: Private equity funds for sustainable real estate   
 
+### Readings
+
+Kaza, N., Quercia, R. G., & Tian, C. Y. (2014). Home energy efficiency and mortgage risks. Cityscape, 16(1), 279-298.
+
+FreddieMac (2020) Unravelling Perceptions of Flood Risk: Examining Changes in Home Prices in Harris County, Texas in the Aftermath of Hurricane Harvey. (link)
+
+Economist (2019). Changing weather could put insurance firms out of business. (link)
+
 ## Session 14: ECON 10 Financing Sustainable Real Estate at the Portfolio Level \[Siqi Zheng\]   
 
 Sustainable real estate investments at portfolio level :  
@@ -25,6 +33,12 @@ Sustainable real estate investments at portfolio level :  
 - Debt: Green Bond   
 
 Benchmarking & Disclosure   
+
+### Readings
+
+Eichholtz, P., Kok, N., & Yonder, E. (2012). Portfolio greenness and the financial performance of REITs. Journal of International Money and Finance, 31(7), 1911-1929.
+
+Devine, A., Sanderford, A., & Wang, C. (2022). Sustainability and Private Equity Real Estate Returns. Journal of Real Estate Finance and Economics.
 
 ## Session 15: DES 1 Design strategies for sustainability and resilience \[Carlos Cerezo Davila\]   
 
@@ -41,3 +55,7 @@ Site and urban scale strategies:
 - Climate, microclimate and future climate
 - Stormwater control, flood mitigation and landscape   
 - District systems, electrification and mobility
+
+### Readings
+
+No readings assigned.
