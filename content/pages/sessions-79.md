@@ -6,7 +6,7 @@ draft: false
 title: "Sessions 7\u20139"
 uid: 3bdf4ac4-36b4-43a5-bc2d-7d74cac96fa3
 ---
-## Session 7: ECON 4 From Green Buildings to Green Cities: pricing environmental features and supporting decisionmaking \[Siqi Zheng\]  
+## Session 7: ECON 4 From green buildings to green cities: pricing environmental features and supporting decisionmaking \[Siqi Zheng\]  
 
 Estimating green building premium: Hedonic pricing technique 
 
@@ -23,7 +23,7 @@ Zheng, S., & Kahn, M. E. (2008). Land and residential property markets in a boom
 
 Eichholtz, P., Kok, N., & Quigley, J. M. (2013). The economics of green building. Review of Economics and Statistics, 95(1), 50-63.
 
-## Session 8: ECON 5 Climate Change and Real Estate Investments \[Siqi Zheng, Juan Palacio\]
+## Session 8: ECON 5 Climate change and real estate investments \[Siqi Zheng, Juan Palacio\]
 
 Physical risks associated with climate change in asset markets  
 
@@ -48,7 +48,7 @@ Hsiang, S. and Kopp, R.E., 2018. An economist's guide to climate change science.
 
 ULI and Heitman, 2019. Climate Risk and Real Estate Investment Decision-Making. Link report here
 
-## Session 9: ECON 6 Climate Change and Real Estate Investments, part 2 \[Siqi Zheng, Juan Palacio\]
+## Session 9: ECON 6 Climate change and real estate investments, part 2 \[Siqi Zheng, Juan Palacio\]
 
 Discounting climate risks: the role of belief 
 
