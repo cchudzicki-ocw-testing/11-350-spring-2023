@@ -25,3 +25,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
+This document presents a case study prepared by Zhengzheng Tan, coinstructor for *11.350 Sustainable Real Estate.*
