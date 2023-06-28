@@ -8,14 +8,14 @@ uid: b93334a2-bb8e-496b-bba4-7c2a8c5511c5
 ---
 ## Session 4: BUS 1 Winthrop Center \[Zhengzheng Tan\]
 
-Boston’s $1.3 billion Winthrop Center was conceived and constructed 2016–2021 in a market with increasing  sustainability sentiment from regulators, community and corporate tenants. The case is about two critical decisions: RFP and Design Development, students will learn:  
+Boston’s $1.3 billion Winthrop Center was conceived and constructed 2016–2021 in a market with increasing  sustainability sentiment from regulators and from community and corporate tenants. The case is about two critical decisions: RFP and Design Development. Students will learn the following:  
 
 - How to approach quantitative and qualitative analysis in making high stake sustainability decisions.  
-- Execution risks associated with fast evolving sustainability concepts. Trade offs and challenges in bringing Passive House concepts to reality. What’s the risk involved and how to control the risk.  
+- Execution risks associated with fast-evolving sustainability concepts; tradeoffs and challenges in bringing Passive House concepts to reality; what risk is involved and how to control that risk.  
 
 ### Readings
 
-*Winthrop Center*
+Winthrop Center case study
 
 ## Session 5: ECON 3 Green building version 2.0: economic rationale and analytical tools of health in buildings \[Juan Palacios\]
 
