@@ -6,7 +6,7 @@ draft: false
 title: "Sessions 13\u201315"
 uid: 60244e54-5b71-4f93-9eea-4b4f63cf9406
 ---
-## Session 13: ECON 9 Financing Sustainable Real Estate at the Asset Level \[Siqi Zheng\]   
+## Session 13: ECON 9 Financing sustainable real estate at the asset level \[Siqi Zheng\]   
 
 Big picture: Sustainable finance; equity and debt financing in sustainable real estate   
 
@@ -19,13 +19,13 @@ Equity: Private equity funds for sustainable real estate   
 
 ### Readings
 
-Kaza, N., Quercia, R. G., & Tian, C. Y. (2014). Home energy efficiency and mortgage risks. Cityscape, 16(1), 279-298.
+Kaza, N., R.G. Quercia, and C.Y. Tian (2014). "Home energy efficiency and mortgage risks." *Cityscape* 16(1): 279–298.
 
-FreddieMac (2020) Unravelling Perceptions of Flood Risk: Examining Changes in Home Prices in Harris County, Texas in the Aftermath of Hurricane Harvey. (link)
+FreddieMac (2020). "Unravelling perceptions of flood risk: examining changes in home prices in Harris County, Texas in the aftermath of Hurricane Harvey."
 
-Economist (2019). Changing weather could put insurance firms out of business. (link)
+Economist (2019). "Changing weather could put insurance firms out of business."
 
-## Session 14: ECON 10 Financing Sustainable Real Estate at the Portfolio Level \[Siqi Zheng\]   
+## Session 14: ECON 10 Financing sustainable real estate at the portfolio level \[Siqi Zheng\]   
 
 Sustainable real estate investments at portfolio level :  
 
