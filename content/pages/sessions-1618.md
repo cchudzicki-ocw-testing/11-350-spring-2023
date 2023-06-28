@@ -43,7 +43,7 @@ Data visualization, communication & decision making
 
 Climate Risk in Investment Memo and Final Project Brief \[Charles Steelman\]
 
-## Session 18: BUS 4 Taurus Investment Holdings: Decarbonization Venture \[Zhengzheng Tan\]  
+## Session 18: BUS 4 Taurus Investment Holdings: Decarbonization venture \[Zhengzheng Tan\]  
 
 Business innovation to capitalize building decarbonization thesis in private equity real estate investment. The components include:
 
