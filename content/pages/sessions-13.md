@@ -30,13 +30,13 @@ No readings assigned.
 
 ## Session 2: ECON 1–2 Green buildings: economic rationale and analytical tools \[Siqi Zheng\] 
 
-How the market may work: The business case for green buildings  
+How the market may work: The business case for green buildings:  
 
 - Triple bottom lines: Developers, owners, tenants  
 - Building asset cash-flows and risk: hypothetical and Rockville pro forma  
 - Life cycle cost-benefit analysis: impacts of greenness on pro forma by stakeholders  
 
-How the market may fail: Market failure and correction (1): Information asymmetry  
+How the market may fail: Market failure and correction (1): Information asymmetry:  
 
 - Information asymmetry and adverse selection  
 - Green building certificates  
@@ -52,12 +52,12 @@ Harvard Business School. Rockville business case.
 
 ## Session 3: ECON 1–2 Green buildings: economic rationale and analytical tools, continued \[Siqi Zheng\] 
 
-Building decarbonization: The technology side  
+Building decarbonization: The technology side:  
 
 - Passive house  
 - Building electrification: heat pump  
 
-Building decarbonization: the people side: landlord vs. tenant  
+Building decarbonization: the people side: landlord vs. tenant:  
 
 - Market failure and correction (2): Split incentive and green lease  
 - Rockville building case, revisited  
