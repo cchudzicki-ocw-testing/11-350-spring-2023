@@ -50,7 +50,7 @@ Guest speaker: Coen van Oostrom, Founder and CEO of EDGE
 
 ### Readings
 
-EDGE case study
+{{% resource_link "ce839dd2-65e6-490b-be4f-b9678659977d" "EDGE case study" %}}
 
 #### Optional Reading
 
