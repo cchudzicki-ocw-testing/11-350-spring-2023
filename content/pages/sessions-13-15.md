@@ -19,11 +19,11 @@ Equity: Private equity funds for sustainable real estate   
 
 ### Readings
 
-Kaza, N., R.G. Quercia, and C.Y. Tian (2014). "Home energy efficiency and mortgage risks." *Cityscape* 16(1): 279–298.
+Kaza, N., R.G. Quercia, and C.Y. Tian (2014). ["Home energy efficiency and mortgage risks."](https://www.jstor.org/stable/26326871) *Cityscape* 16(1): 279–298.
 
-FreddieMac (2020). "Unravelling perceptions of flood risk: examining changes in home prices in Harris County, Texas in the aftermath of Hurricane Harvey."
+Economic and Housing Research group (2020). ["Unravelling perceptions of flood risk: examining changes in home prices in Harris County, Texas in the aftermath of Hurricane Harvey."](https://www.freddiemac.com/research/insight/20200910-unravelling-perceptions-of-flood-risk#:~:text=Overall%2C%20home%20prices%20increased%20in,2.5%25%20even%20after%20Hurricane%20Harvey.&text=However%2C%20as%20people%20updated%20their,3.1%25%20less%20than%20other%20homes.) September 10, 200 report, Freddie Mac.
 
-Economist (2019). "Changing weather could put insurance firms out of business."
+Blown Cover (2019). "Changing weather could put insurance firms out of business." *The Economist*, September 19, 2019.
 
 ## Session 14: ECON 10 Financing sustainable real estate at the portfolio level \[Siqi Zheng\]   
 
@@ -36,13 +36,13 @@ Benchmarking & Disclosure   
 
 ### Readings
 
-Eichholtz, P., Kok, N., & Yonder, E. (2012). Portfolio greenness and the financial performance of REITs. Journal of International Money and Finance, 31(7), 1911-1929.
+Eichholtz, P., N. Kok, and E. Yonder (2012). ["Portfolio greenness and the financial performance of REITs."](https://www.sciencedirect.com/science/article/abs/pii/S0261560612001052) *Journal of International Money and Finance* 31(7): 1911–1929.
 
-Devine, A., Sanderford, A., & Wang, C. (2022). Sustainability and Private Equity Real Estate Returns. Journal of Real Estate Finance and Economics.
+Devine, A., A. Sanderford, and C. Wang (2022). ["Sustainability and private equity real estate returns."](https://www.reri.org/research/files/sustainability_and_private_equity_real_estate_returns.pdf) *Journal of Real Estate Finance and Economics*, published online 16 June 2022.
 
 ## Session 15: DES 1 Design strategies for sustainability and resilience \[Carlos Cerezo Davila\]   
 
-A framework for sustainable design (With Jamie Von Klemperer)
+A framework for sustainable design (with Jamie von Klemperer)
 
 Building scale strategies:   
 
@@ -52,9 +52,9 @@ Building scale strategies:   
 
 Site and urban scale strategies:
 
-- Climate, microclimate and future climate
-- Stormwater control, flood mitigation and landscape   
-- District systems, electrification and mobility
+- Climate, microclimate, and future climate
+- Stormwater control, flood mitigation, and landscape   
+- District systems, electrification, and mobility
 
 ### Readings
 
