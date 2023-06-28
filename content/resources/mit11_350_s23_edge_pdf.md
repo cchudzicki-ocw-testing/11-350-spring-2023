@@ -12,8 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '11.350 Sustainable Real Estate: EDGE: Sustainable Real Estate in the Digital
-  Age'
+title: 11.350 Sustainable Real Estate - EDGE case study
 uid: ce839dd2-65e6-490b-be4f-b9678659977d
 video_files:
   archive_url: ''
@@ -26,3 +25,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
+This document presents a case study prepared by Zhengzheng Tan, coinstructor for *11.350 Sustainable Real Estate.*
