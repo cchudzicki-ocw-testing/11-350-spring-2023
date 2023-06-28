@@ -15,7 +15,7 @@ Boston’s $1.3 billion Winthrop Center was conceived and constructed 2016–202
 
 ### Readings
 
-Winthrop Center case study
+{{% resource_link "fe27d883-5759-4279-b4c7-2e31aa8a8977" "Winthrop Center case study (PDF)" %}}
 
 ## Session 5: ECON 3 Green building version 2.0: economic rationale and analytical tools of health in buildings \[Juan Palacios\]
 
