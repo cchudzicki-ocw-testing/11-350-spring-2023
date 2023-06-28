@@ -19,17 +19,17 @@ Boston’s $1.3 billion Winthrop Center was conceived and constructed 2016–202
 
 ## Session 5: ECON 3 Green building version 2.0: economic rationale and analytical tools of health in buildings \[Juan Palacios\]
 
-Quantifying the impact of buildings on occupants’ health and performance of occupants  
+Quantifying the impact of buildings on occupants’ health and performance of occupants:  
 
 - The impact of environmental hazards on human health and productivity  
 - The role of buildings in climate resilience strategies (adaptation)  
 
-Value of healthy buildings  
+The value of healthy buildings:  
 
 - How to account for investments in health? An accounting look into how to measure the impact of healthy building strategies on firms’ financial performance  
 - Healthy buildings in the post-COVID era  
 
-The role of technology and certification  
+The role of technology and certification:  
 
 - Information as a public good: sensors, building certifications, and industry standards for healthy buildings  
 - The 425 Park Avenue case from an economic perspective
