@@ -48,7 +48,7 @@ World Green Building Council. (2013). ["The business case for green building: a 
 
 Harvard Business School. Rockville business case.
 
-(If no real estate finance background) Chapter 10 of Geltner, D., Miller, N. G., Clayton, J., and Eichholtz, P (2014). [*Commercial real estate analysis and investments*](https://www.amazon.com/Commercial-Real-Estate-Analysis-Investments/dp/1133108822), third edition. Mbition LLC. ISBN: 9781133108825.
+(If no real estate finance background) Chapter 10 of Geltner, D., N.G. Miller, J. Clayton, and P. Eichholtz (2014). [*Commercial real estate analysis and investments*](https://www.amazon.com/Commercial-Real-Estate-Analysis-Investments/dp/1133108822), third edition. Mbition LLC. ISBN: 9781133108825.
 
 ## Session 3: ECON 1–2 Green buildings: economic rationale and analytical tools, continued \[Siqi Zheng\] 
 
