@@ -17,8 +17,8 @@ Sustainable design in the development process: 
 Narratives for different design consumers:   
 
 - The public: Right to Daylight in NYC   
-- The tenant: Communicating comfort benefits   
-- The utility: Building energy at the portfolio scale   
+- The tenant: communicating comfort benefits   
+- The utility: building energy at the portfolio scale   
 
 Global perspectives on climate action and regulation   
 
@@ -28,7 +28,7 @@ No readings assigned.
 
 ## Session 17: DES 3 Applications of environmental modeling tools \[Carlos Cerezo Davila\]   
 
-Performance driven sustainable design   
+Performance-driven sustainable design   
 
 Modeling tools and methods:  
 
@@ -37,20 +37,20 @@ Modeling tools and methods:  
 - Energy modeling by phase   
 - Material data transparency   
 
-Data visualization, communication & decision making
+Data visualization, communication, and decision making
 
 ### Readings
 
-Climate Risk in Investment Memo and Final Project Brief \[Charles Steelman\]
+"Climate Risk in Investment" memo and final project brief \[Charles Steelman\]
 
 ## Session 18: BUS 4 Taurus Investment Holdings: Decarbonization venture \[Zhengzheng Tan\]  
 
-Business innovation to capitalize building decarbonization thesis in private equity real estate investment. The components include:
+Business innovation to capitalize building decarbonization thesis in private equity real estate investment. Components include the following:
 
-- proof of concept with technology; business process and deal economics; 
-- investment thesis and vehicle formation; 
-- capital raising; and 
-- seed asset acquisition.    
+- proof of concept with technology; business process and deal economics 
+- investment thesis and vehicle formation
+- capital raising
+- seed asset acquisition   
 
 Guest Speaker: Peter Merrigan, CEO and founder, Taurus Investment Holdings
 
