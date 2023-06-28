@@ -56,4 +56,4 @@ Guest Speaker: Peter Merrigan, CEO and founder, Taurus Investment Holdings
 
 ### Readings
 
-*Taurus Investment Holdings: Decarbonization Venture*
+Taurus Investment Holdings case study
