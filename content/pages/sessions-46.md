@@ -48,7 +48,7 @@ Analyzing financial returns of healthy building investment
 
 ### Readings
 
-Macomber, J., J. G. Allen, and E. Jones (2020). 
+Macomber, J., J. G. Allen, and E. Jones (2020).
 
 [*A Tower for the People: 425 Park Avenue.*](https://www.hbs.edu/faculty/Pages/item.aspx?num=57814) 
 
