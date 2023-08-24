@@ -52,6 +52,6 @@ Macomber, J., J. G. Allen, and E. Jones (2020).
 
 [*A Tower for the People: 425 Park Avenue.*](https://www.hbs.edu/faculty/Pages/item.aspx?num=57814)
 
-#### Case study, Harvard Business School.
+Case study, Harvard Business School.
 
 Muldavin, S., C.R. Miers and K. McMackin (2017). ["Buildings emerge as drivers of health and profits" (PDF)](https://www.muldavin.com/wp-content/uploads/2018/03/Buildings-Emerge-as-Drivers-of-Health-Profits_Muldavin_Corp-RE-Journal_Dec-2017-1.pdf). Corporate Real Estate Journal 7(2): 177–193.
